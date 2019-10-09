@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 import java.awt.*;
 
 //asdasf
-//taki Valum
+//taki Valum123123
 //siedzi tu
 //na drzewie
 public class Main extends Application {
