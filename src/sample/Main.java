@@ -12,7 +12,7 @@ import javafx.stage.Stage;
 
 import java.awt.*;
 
-
+//asdasf
 //taki Valum
 //siedzi tu
 //na drzewie
