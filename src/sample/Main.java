@@ -12,7 +12,7 @@ import javafx.stage.Stage;
 
 import java.awt.*;
 
-//asdasf
+//asdasf Morksil ssie pałę
 //taki Valum123123
 //siedzi tu
 //na drzewie
