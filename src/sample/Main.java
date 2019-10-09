@@ -12,6 +12,8 @@ import javafx.stage.Stage;
 
 import java.awt.*;
 
+
+//taki Valum
 public class Main extends Application {
 
     @Override
